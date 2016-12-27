@@ -1,0 +1,9 @@
+E:\工作内容\2015活动\ForeachFile\obj\Debug\ForeachFile.csproj.ResolveComReference.cache
+E:\工作内容\2015活动\ForeachFile\obj\Debug\ForeachFile.Form1.resources
+E:\工作内容\2015活动\ForeachFile\obj\Debug\ForeachFile.Properties.Resources.resources
+E:\工作内容\2015活动\ForeachFile\obj\Debug\ForeachFile.csproj.GenerateResource.Cache
+E:\工作内容\2015活动\ForeachFile\bin\Debug\ForeachFile.exe.config
+E:\工作内容\2015活动\ForeachFile\bin\Debug\ForeachFile.exe
+E:\工作内容\2015活动\ForeachFile\bin\Debug\ForeachFile.pdb
+E:\工作内容\2015活动\ForeachFile\obj\Debug\ForeachFile.exe
+E:\工作内容\2015活动\ForeachFile\obj\Debug\ForeachFile.pdb

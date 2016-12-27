@@ -1,0 +1,8 @@
+E:\工作内容\2015活动\GenHtmlService\bin\Debug\GenHtmlService.exe
+E:\工作内容\2015活动\GenHtmlService\bin\Debug\GenHtmlService.pdb
+E:\工作内容\2015活动\GenHtmlService\obj\Debug\GenHtmlService.ProjectInstaller.resources
+E:\工作内容\2015活动\GenHtmlService\obj\Debug\GenHtmlService.csproj.GenerateResource.Cache
+E:\工作内容\2015活动\GenHtmlService\obj\Debug\GenHtmlService.exe
+E:\工作内容\2015活动\GenHtmlService\obj\Debug\GenHtmlService.pdb
+E:\工作内容\2015活动\GenHtmlService\bin\Debug\GenHtmlService.exe.config
+E:\工作内容\2015活动\GenHtmlService\obj\Debug\GenHtmlService.csproj.ResolveComReference.cache

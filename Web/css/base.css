@@ -1,0 +1,177 @@
+
+
+* { margin: 0; padding: 0; }
+body { margin:0; padding:0; font-size:12px; font-family: Arial, Helvetica, sans-serif; }
+html { padding:0; margin:0;}
+table { font-family:Arial; font-size:12px;}
+td { padding:10px;}
+ul { list-style: none; }
+a { color: #fff; }
+a:hover { color: #FF0000; text-decoration: underline; }
+.wrapper { width: 1080px; margin: 0 auto; }
+.font12bold { font-size: 12px; font-weight: bold; }
+.font14bold { font-size: 14px; font-weight: bold; }
+.font14 { font-size: 14px; }
+.gary { color: #777; }
+.clear { clear:both; }
+.moreinfo { float: right; margin: 6px 10px 0 0; color: #0278CA;  }
+.moreinfo a { color: #023378; }
+.moreinfo a:hover { color: #FF0000; }
+.moreinfo_gary { float: right; margin: 6px 10px 0 0; color: #0278CA;  }
+.moreinfo_gary a { color: #333; }
+.moreinfo_gary a:hover { color: #FF0000; }
+.position { float: right; margin: 6px 10px 0 0; color: #373737;  }
+.position a { color: #373737; }
+.position a:hover { color: #FF0000; }
+.morelink { color: #FD0000; }
+.morelink:hover { color: #06c; }
+.borer_blue { border: 1px solid #7DB6DF; }
+.red { color: #FF0000; }
+.green { color: #009966; }
+.songti { font-family:"ËÎÌו"; }
+.blue { color: #06c; }
+.border { border: 1px solid #DADADA; } 
+.border_top { border-top: 1px solid #E2E2E2; }
+.border_top_blue { border-top: 1px solid #C1CEDB; }
+.border-blue { border-top: 1px solid #C4D3DF; }
+.boder_7DB6DF { border: 1px solid #7DB6DF; }
+.boder_orange { border: 1px solid #DFD7B5; }
+.border_gary { border: 1px solid #C9C9C9; }
+.margin_top10 { margin-top: 10px; }
+.margin_top8 { margin-top: 8px; }
+.margin_bottom5 { margin-bottom: 5px; }
+.left { float: left; }
+.right { float: right; }
+
+/*@-root: Reset CSS */
+	/*@-reset:margin & padding*/
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+}
+	/*@-reset:border*/
+fieldset, img {
+	border: 0;
+}
+abbr, acronym {
+	border: 0;
+	font-variant: normal;
+}
+	/*@-reset:font*/
+address, caption, cite, code, dfn, th, var, optgroup {
+	font-style: inherit;
+	font-weight: inherit;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight:inherit;
+}
+abbr, acronym {
+	border: 0;
+	font-variant: normal;
+}
+input, button, textarea, select, optgroup, option {
+	font-family: inherit;
+	font-size: inherit;
+	font-style: inherit;
+	font-weight: inherit;
+}
+code, kbd, samp, tt {
+	font-size: 100%;
+}
+/*@purpose To enable resizing for IE */
+/*@branch For IE6-Win, IE7-Win */
+input, button, textarea, select {
+ *font-size: 100%;
+}
+	/*@-reset:line-height*/
+body {
+	line-height: 1.5;
+}
+	/*@-reset:list-style*/
+ol, ul {
+	list-style: none;
+}
+	/*@-reset:table*/
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+caption, th {
+	text-align: left;
+}
+	/*@-reset:sub & sup*/
+sup, sub {
+	font-size: 100%;
+	vertical-align: baseline;
+}
+	/*@-reset:a & ins text-decoration*/
+/* remember to highlight anchors and inserts somehow! */
+:link, :visited, ins {
+	text-decoration: none;
+}
+	/*@-reset:q & blockquote*/
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+/*@-root: Common CSS */
+/*rounded box*/
+/*
+<div class="rdBox rdBoxTop">
+	<div class="rdBoxRight">
+		<div class="rdBoxBground"></div>
+	</div>
+</div>
+<div class="rdBox rdBoxBottom">
+	<div class="rdBoxRight">
+		<div class="rdBoxBground"></div>
+	</div>
+</div>
+*/
+.rdBox {
+	width:100%;
+	float:left !important;
+	float:none;
+}
+.rdBox * {
+	height:9px;
+	font-size:1px;
+	line-height:8px;
+}
+.rdBoxTop {
+	background:transparent url(../images/bg_v2_rd.png) no-repeat 0 0;
+}
+.rdBoxRight {
+	margin-left:9px;
+}
+.rdBoxBground {
+	margin-right:9px;
+}
+.rdBoxTop .rdBoxRight {
+	background:transparent url(../images/bg_v2_rd.png) no-repeat right -18px;
+}
+.rdBoxTop .rdBoxBground {
+	background:transparent url(../images/bg_v2_rd.png) repeat-x 0 -9px;
+}
+.rdBoxBottom {
+	background:transparent url(../images/bg_v2_rd.png) no-repeat 0 -27px;
+}
+.rdBoxBottom .rdBoxRight {
+	background:transparent url(../images/bg_v2_rd.png) no-repeat right -45px;
+}
+.rdBoxBottom .rdBoxBground {
+	background:transparent url(../images/bg_v2_rd.png) repeat-x right -36px;
+}
+
+
+
+
+
+
+
+

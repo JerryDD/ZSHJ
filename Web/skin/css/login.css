@@ -1,0 +1,33 @@
+body
+{
+    margin: 0px;
+    font-size: 12px;
+    background-image: url(../images/frame/bg_login.png);
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-color: #A2D5F0;
+}
+td, div
+{
+    font-size: 12px;
+}
+#login
+{
+    color: white;
+    background-image: url(../images/frame/bg_login.png);
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-color: #A2D5F0;
+}
+#login #root
+{
+    background-image: url(../images/frame/login_root.png);
+}
+#login #main
+{
+    background-image: url(../images/frame/login_main.png);
+}
+#login * td
+{
+    color: white;
+}

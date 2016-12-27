@@ -1,0 +1,111 @@
+div
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+body
+{
+    padding: 0px;
+    margin: auto;
+    text-align: center;
+    background-color: #9ad075;
+}
+
+html
+{
+    scrollbar-face-color: #66BF4A;
+    scrollbar-highlight-color: #9ad075;
+    scrollbar-3dlight-color: #9ad075;
+    scrollbar-darkshadow-color: #9ad075;
+    scrollbar-Shadow-color: #9ad075;
+    scrollbar-arrow-color: #9ad075;
+    scrollbar-track-color: #9ad075;
+}
+
+::-webkit-scrollbar
+{
+    width: 10px;
+    height: 100%;
+}
+
+::-webkit-scrollbar-track-piece
+{
+    background-color: #9ad075;
+    -webkit-border-radius: 0px;
+}
+
+::-webkit-scrollbar-thumb:vertical
+{
+    height: 5px;
+    background-color: #66BF4A;
+    -webkit-border-radius: 50px;
+}
+::-webkit-scrollbar-thumb:horizontal
+{
+    width: 0px;
+    background-color: #9ad075;
+    -webkit-border-radius: 0px;
+}
+
+dl.bitem
+{
+    width: 148px;
+    margin: 0px 0px 5px 4px;
+}
+
+dl.bitem dt
+{
+    background: url(../images/frame/menubg.gif);
+    height: 26px;
+    line-height: 26px;
+    text-align: center;
+    cursor: pointer;
+}
+
+dl.bitem dd
+{
+    padding: 3px 3px 3px 3px;
+    background-color: #fff;
+}
+
+.fllct
+{
+    float: left;
+    width: 90px;
+}
+
+.flrct
+{
+    padding-top: 3px;
+    float: left;
+}
+
+div.items
+{
+    line-height: 22px;
+    background: url(../images/frame/arr4.gif) no-repeat 10px 9px;
+}
+
+span.items
+{
+    padding: 10px 0px 10px 22px;
+    background: url(../images/frame/arr4.gif) no-repeat 10px 12px;
+}
+
+ul
+{
+    padding-top: 3px;
+}
+
+li
+{
+    height: 22px;
+}
+
+.sitemu li
+{
+    padding: 0px 0px 0px 22px;
+    line-height: 24px;
+    background: url(../images/frame/arr4.gif) no-repeat 10px 9px;
+}
